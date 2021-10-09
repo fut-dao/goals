@@ -6,7 +6,15 @@ DAOs are an effective and safe way to work with like-minded folks around the glo
 	- We are a decentralized sporting group on a mission to revolutionize the football/soccer/fútbol industry through blockchain technology. 
 
 ## Goals
-...
+- we want to own a club or merge with an existing one in League One EFL
+- find ways to integrate blockchain technologies into the football world
+	- create a token that give the fans ownership and representation in the club
+	- create a connected community 
+		- being transparent ( all club decisions made on chain )
+		- better media ( player fan interaction and fan questions during press conferences ) 
+		- earn tokens through contribution ( all fans will be owners and all fans have unique skills that they can contribute )
+	- create an interactive streaming service where fans can get involved in footballing decisions during live matches
+
 
 ## Challenges
 - **Technical** 
